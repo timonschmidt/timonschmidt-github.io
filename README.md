@@ -1,2 +1,1 @@
-# timonschmidt-github.io
-secretwebsite
+# nothing to see here
